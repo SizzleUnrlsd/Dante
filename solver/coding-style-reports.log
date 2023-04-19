@@ -1,0 +1,3 @@
+./Makefile:40: illegal token in column 10, giving up (hint: fix the file or remove it from the working set)
+./lib/my/Makefile:41: illegal token in column 15, giving up (hint: fix the file or remove it from the working set)
+./lib/my_printf/Makefile:39: illegal token in column 6, giving up (hint: fix the file or remove it from the working set)
